@@ -4,7 +4,7 @@
 
 ## Animation of the Website
 
-![image](./CountryInformation.gif)
+![image](https://github.com/SkyCooper/UsersInfoAPI/blob/main/usersInfo.gif)
 
 ## Visulation of the Website
 
