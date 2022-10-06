@@ -4,7 +4,7 @@
 
 ## Animation of the Website
 
-![image](./CountryInformation.gif)
+![image](./usersInfo.gif)
 
 ## Visulation of the Website
 
