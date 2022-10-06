@@ -8,8 +8,6 @@
 
 ## Visulation of the Website
 
-![image](https://user-images.githubusercontent.com/106506769/194232673-27613c60-2384-47ee-90db-8c6322c49a5e.png)
-![image](https://user-images.githubusercontent.com/106506769/194232860-3a6deeb2-a037-421d-99cb-6abb6f7d19d9.png)
 ![image](./img/img1.png)
 
 ## Description
