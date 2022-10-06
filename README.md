@@ -29,7 +29,7 @@ At the end of the this project, you will be able to;
 
 ## Project Skeleton 
 
-|----CountryFlagsInfo
+|----UsersInfoAPI
 
         |----index.html  
         |----script.js
